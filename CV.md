@@ -11,7 +11,8 @@ Self-taught Linux Systems & Infrastructure enthusiast with 10+ years of hardware
 - Networking: SSH/Mosh, Tailscale (overlay networks), Samba (file sharing services), VPN.
 - Automation/Dev: Python (CLI & API development), Bash scripting, Git.
 
-### Projects
+
+## Projects
 **Self-Hosted Media & Library Infrastructure | Python, Docker, SQLite**
 - Managed persistent data storage with SQLite and automated media indexing.
 - **Outcome:** Daily driven system maintaining 99% uptime on a personal headless server.
@@ -20,6 +21,7 @@ Self-taught Linux Systems & Infrastructure enthusiast with 10+ years of hardware
 - Architected a secure remote-access workflow using Tailscale and Mosh to maintain and manage a headless server located in Seville from a ThinkPad anywhere in Spain.
 - Configured tailscale-network-wide ad-blocking using Pi-hole.
 - Handled hardware overclocks and curve oprmizations for peak stability.
+
 
 ## Official education:
 Grado en Música (Interpretación Clásica | Trombón)
