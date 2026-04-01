@@ -6,7 +6,7 @@
 Self-taught Linux Systems & Infrastructure enthusiast with 10+ years of hardware/OS tinkering and 2 years of deep dive into containerization (Docker), networking, and Python. Disciplined professional with a background in musical analisis and interpretation, now seeking a Junior Systems Administrator or DevOps role. Expert at bridging the gap between hardware performance and software automation.
 
 ## Technical Skills:
-- Operating Systems: Linux (Arch, Debian, Ubuntu).
+- Operating Systems: UNIX/Linux Systems (Arch, Debian, Ubuntu).
 - Insfrastructure: Docker, Docker-Compose, Portainer.
 - Networking: SSH/Mosh, Tailscale (overlay networks), Samba (file sharing services), VPN.
 - Automation/Dev: Python (CLI & API development), Bash scripting, Git.
